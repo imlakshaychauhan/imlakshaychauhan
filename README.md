@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imlakshaychauhan" alt="imlakshaychauhan" /></a> </p>
 
-- 📄 Know about my experiences in [my resume](shorturl.at/aDLY7)
+- 📄 Know about my experiences in [my resume](https://drive.google.com/file/d/16QPvwLBkUB-VQJIzo57w2iEbSzJ_dKjl/view?usp=share_link)
 
 - 🔭 I’m currently working on [Coding Problem Solutions Chrome Extension](https://bit.ly/3UPJJ0G)
 
@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/lakshay-chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshay-chauhan" height="30" width="40" /></a>
 <a href="https://instagram.com/_lakshayc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lakshayc" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/stoicoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stoicoder" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/lakshaychauhan/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/lakshaychauhan/practice" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/lakshaychauhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/lakshaychauhan/practice" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
