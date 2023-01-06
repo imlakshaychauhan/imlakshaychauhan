@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Lakshay Chauhan</h1>
-<h3 align="center">IT Student at MSIT, Delhi. I am a problem solver and learning full stack development</h3>
+<h3 align="center">IT Student at MSIT, Delhi | Problem Solver | Full Stack Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imlakshaychauhan&label=Profile%20views&color=0e75b6&style=flat" alt="imlakshaychauhan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imlakshaychauhan" alt="imlakshaychauhan" /></a> </p>
 
-- 📄 Know about my experiences in [my resume](https://drive.google.com/file/d/16QPvwLBkUB-VQJIzo57w2iEbSzJ_dKjl/view?usp=share_link)
+- 📄 Know more about me in [resume](https://drive.google.com/file/d/16QPvwLBkUB-VQJIzo57w2iEbSzJ_dKjl/view?usp=share_link)
 
-- 🔭 I’m currently working on [Coding Problem Solutions Chrome Extension](https://bit.ly/3UPJJ0G)
+- 🔭 I’m currently working on [Coding Solutions Chrome Extension](https://bit.ly/3UPJJ0G)
 
-- 🌱 I’m currently learning **Solidity Web3**
-
-- 💬 Ask me about **react, and node.js**
+- 🌱 I’m really interested in learning **Web3 Development**
 
 - 📫 How to reach me **lakshaychauhan030@gmail.com**
 
-- ⚡ **I read philosophy and non-fictional books as the hobbies**
+- ⚡ **I read philosophy and non-fictional books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
