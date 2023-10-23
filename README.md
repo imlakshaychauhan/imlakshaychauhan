@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imlakshaychauhan" alt="imlakshaychauhan" /></a> </p>
 
-- 📄 Know more about me in [resume](https://drive.google.com/file/d/16QPvwLBkUB-VQJIzo57w2iEbSzJ_dKjl/view?usp=share_link)
-
 - 🔭 I’m currently working on [Coding Solutions Chrome Extension](https://bit.ly/3UPJJ0G)
 
 - 🌱 I’m really interested in learning **Web3 Development**
