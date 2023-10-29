@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imlakshaychauhan" alt="imlakshaychauhan" /></a> </p>
 
-- 🔭 I’m currently working on [Coding Solutions Chrome Extension](https://bit.ly/3UPJJ0G)
-
-- 🌱 I’m really interested in learning **Web3 Development**
-
 - 📫 How to reach me **lakshaychauhan030@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
